@@ -1,0 +1,38 @@
+#canvas{
+   
+    border-radius: 4px;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#knapkasse{
+    text-align: center;
+}
+#knap{
+    width: 100px;
+    height: 40px;
+    background-color: forestgreen;
+    color: white;
+    border:none;
+    border-radius: 3px;
+}
+#points{
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+.OS{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;  
+}
+#safeTimer{
+    height: 100px;
+    text-align: center;
+    font-family: sans-serif;
+}
+#safeTimerDisplay{
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+   
+}
